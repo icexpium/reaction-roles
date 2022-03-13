@@ -1,7 +1,7 @@
 {
-  "prefix": "",
-  "main_token": "",
-  "mongodb_url": "",
-  "developers": [""],
-  "bot_name":""
+  "prefix": "+",
+  "main_token": "OTUyNTIwMDU3MTQ0MDk0Nzcw.Yi3Nbg.cg1LC__QxNc6tNigh5Kz6zcaheo",
+  "mongodb_url": "mongodb+srv://newuser:newuser@cluster0.mcl1k.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "developers": ["898612373852659734"],
+  "bot_name":"TRINITY REACT"
 }
